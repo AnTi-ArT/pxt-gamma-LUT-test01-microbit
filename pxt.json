@@ -1,5 +1,5 @@
 {
-    "name": "pxt-gamma-lut-test01-microbit",
+    "name": "Gamma Correction",
     "version": "0.0.2",
     "description": "Gamma correction LUT block. And a test project for Github-MakeCode...",
     "dependencies": {
