@@ -1,19 +1,13 @@
 {
     "name": "pxt-gamma-lut-test01-microbit",
     "version": "0.0.1",
-    "description": "",
+    "description": "Gamma correction LUT block. And a test project for Github-MakeCode...",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "main.ts",
         "custom-gammaLUT.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": true
 }
